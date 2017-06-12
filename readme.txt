@@ -6,3 +6,5 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick AND simple.
 something just like this
 I like you , Mei.
+I love you, Dear.
+I hate you,company.
